@@ -58,7 +58,7 @@ You turn on or turn off Safe Attachments for Office 365 for SharePoint, OneDrive
 
 ## Step 1: Use the Microsoft Defender portal to turn on Safe Attachments for SharePoint, OneDrive, and Microsoft Teams
 
-1. In the Microsoft Defender portal at <https://security.microsoft.com>, go to **Policies & rules** \> **Threat policies** \> **Safe Attachments** in the **Policies** section. Or, to go directly to the **Safe Attachments** page, use <https://security.microsoft.com/safeattachmentv2>.
+1. In the Microsoft Defender portal at <https://security.microsoft.com>, go to **Email & collaboration** \> **Policies & rules** \> **Threat policies** \> **Safe Attachments** in the **Policies** section. Or, to go directly to the **Safe Attachments** page, use <https://security.microsoft.com/safeattachmentv2>.
 
 2. On the **Safe Attachments** page, select :::image type="icon" source="media/m365-cc-sc-gear-icon.png" border="false"::: **Global settings**.
 
